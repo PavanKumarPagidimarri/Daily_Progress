@@ -1,11 +1,11 @@
 
 These file contains what is on-premise, why we need it, what is advanced than on-premise..
 
-1. #What is On-Premise?
+1. What is On-Premise?
 
 **On-premise** refers to an IT infrastructure where the hardware and software are physically located within the organization's own premises or data centers, rather than hosted on a third-party provider’s infrastructure. The organization manages everything in-house, from servers and networking equipment to security and maintenance.
 
-2.  #Why Do We Need On-Premise?
+2.  Why Do We Need On-Premise?
 
 On-premise solutions are typically used when organizations want **full control** over their systems, data, and security. 
 
@@ -21,4 +21,3 @@ On-premise solutions are typically used when organizations want **full control**
     
 - **Cloud**: Rent hardware and services, flexible scaling, no hardware maintenance, and ongoing subscription costs.
 
-![[Pasted image 20250421200645.png]]
